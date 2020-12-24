@@ -12,7 +12,7 @@ yarn add react-outside-click-event
 ```
 
 ## Demo
-- https://codesandbox.io/s/frosty-ellis-eq4m0
+- https://codesandbox.io/s/quirky-meadow-npb48
 
 
 ## Usage
